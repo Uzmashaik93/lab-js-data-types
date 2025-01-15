@@ -56,7 +56,7 @@ console.log(tipAmount);
 *******************************************/
 
 // Generate a random integer between 1 and 10 (inclusive)
-const randomNumber=Math.floor(Math.random() * 11 + 1);
+const randomNumber=Math.floor(Math.random() * 10 + 1);
 console.log(randomNumber);
 
 // Print the generated random number
